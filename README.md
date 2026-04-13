@@ -1,5 +1,7 @@
 # artemis2study
 ## Study of 2026 Artemis 2 Mission
+https://www.nasa.gov/mission/artemis-ii/
+
 https://www.nasa.gov/missions/artemis/nasas-artemis-ii-moon-mission-daily-agenda/
 
 https://www.nasa.gov/blogs/artemis/
